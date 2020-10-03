@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-03T20:14:16.714637Z'
+publishDate: '2020-10-03T21:26:21.420743Z'
 publication_types:
 - 2
 abstract: It is commonly believed that decoherence arises as a result of the entangling
@@ -50,6 +50,6 @@ abstract: It is commonly believed that decoherence arises as a result of the ent
   is not necessary for decoherence or information back-flow, but plays a crucial role
   in the emergence of an objective reality.
 publication: '*Phys. Rev. Res.*'
-url_pdf: http://arxiv.org/abs/1907.12447 https://link.aps.org/doi/10.1103/PhysRevResearch.2.012061
+url_pdf: http://arxiv.org/abs/1907.12447
 doi: 10.1103/PhysRevResearch.2.012061
 ---

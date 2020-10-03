@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-03T20:14:17.981652Z'
+publishDate: '2020-10-03T21:26:22.733662Z'
 publication_types:
 - 1
 abstract: We consider the estimation of a weak magnetic field B acting on a continuously

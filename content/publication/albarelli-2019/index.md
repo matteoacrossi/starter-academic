@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-03T20:14:16.913558Z'
+publishDate: '2020-10-03T21:26:21.634374Z'
 publication_types:
 - 2
 abstract: 'We discuss the problem of estimating a frequency via [Formula: see text]-qubit
@@ -47,6 +47,6 @@ abstract: 'We discuss the problem of estimating a frequency via [Formula: see te
   to the QFI of a state undergoing the (unconditional) dephasing dynamics, but with
   an effectively reduced noise parameter.'
 publication: '*Int. J. Quantum Inf.*'
-url_pdf: http://arxiv.org/abs/1910.12549 https://www.worldscientific.com/doi/abs/10.1142/S0219749919410132
+url_pdf: http://arxiv.org/abs/1910.12549
 doi: 10.1142/S0219749919410132
 ---

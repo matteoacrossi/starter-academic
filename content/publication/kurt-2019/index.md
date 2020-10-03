@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-03T20:14:17.087823Z'
+publishDate: '2020-10-03T21:26:21.812467Z'
 publication_types:
 - 2
 abstract: We study the population dynamics and quantum transport efficiency of a multi-site
@@ -53,6 +53,6 @@ abstract: We study the population dynamics and quantum transport efficiency of a
   engineering and characterizing efficient quantum transport in multi-site systems
   both for realistic environments and engineered systems.
 publication: '*New J. Phys.*'
-url_pdf: http://arxiv.org/abs/1909.00167 https://iopscience.iop.org/article/10.1088/1367-2630/ab60f2
+url_pdf: http://arxiv.org/abs/1909.00167
 doi: 10.1088/1367-2630/ab60f2
 ---

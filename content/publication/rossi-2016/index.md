@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-03T20:14:19.388274Z'
+publishDate: '2020-10-03T21:26:24.346511Z'
 publication_types:
 - 2
 abstract: Should the Dicke model of light-matter interaction include a diamagnetic

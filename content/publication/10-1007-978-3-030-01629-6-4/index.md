@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-03T20:14:18.351239Z'
+publishDate: '2020-10-03T21:26:23.168518Z'
 publication_types:
 - 1
 abstract: We address the experimental implementation of a quantum simulator based

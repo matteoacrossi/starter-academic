@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-03T20:14:17.259460Z'
+publishDate: '2020-10-03T21:26:21.990552Z'
 publication_types:
 - 2
 abstract: Continuous-time quantum walks may be exploited to enhance spatial search,
@@ -47,6 +47,6 @@ abstract: Continuous-time quantum walks may be exploited to enhance spatial sear
   the evolution, and show that it cannot be considered as a resource for this algorithm,
   since its presence is correlated with lower probabilities of success of the search.
 publication: '*Quantum Meas. Quantum Metrol.*'
-url_pdf: http://arxiv.org/abs/1811.04780 http://www.degruyter.com/view/j/qmetro.2018.5.issue-1/qmetro-2018-0003/qmetro-2018-0003.xml
+url_pdf: http://arxiv.org/abs/1811.04780
 doi: 10.1515/qmetro-2018-0003
 ---

@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-03T20:14:20.261185Z'
+publishDate: '2020-10-03T21:26:25.291354Z'
 publication_types:
 - 2
 abstract: Quantum gravity theories predict a minimal length at the order of magnitude

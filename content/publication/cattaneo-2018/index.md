@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-03T20:14:17.799956Z'
+publishDate: '2020-10-03T21:26:22.543488Z'
 publication_types:
 - 2
 abstract: 'We address quantum spatial search on graphs and its implementation by continuous-time
@@ -51,6 +51,6 @@ abstract: 'We address quantum spatial search on graphs and its implementation by
   for the implementation by noisy quantum walks, owing to its simple topology and
   nearly optimal performance also for just few nodes.'
 publication: '*Phys. Rev. A*'
-url_pdf: http://arxiv.org/abs/1809.01969 https://link.aps.org/doi/10.1103/PhysRevA.98.052347
+url_pdf: http://arxiv.org/abs/1809.01969
 doi: 10.1103/PhysRevA.98.052347
 ---

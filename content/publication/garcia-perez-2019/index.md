@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-03T20:14:16.524138Z'
+publishDate: '2020-10-03T21:26:21.238397Z'
 publication_types:
 - 2
 abstract: The advent of Noisy Intermediate-Scale Quantum (NISQ) technology is changing
@@ -53,6 +53,6 @@ abstract: The advent of Noisy Intermediate-Scale Quantum (NISQ) technology is ch
   work, caused by memory effects. All these results are obtained using IBM Q Experience
   processors publicly available and remotely accessible online.
 publication: '*npj Quantum Inf.*'
-url_pdf: http://arxiv.org/abs/1906.07099 http://www.nature.com/articles/s41534-019-0235-y
+url_pdf: http://arxiv.org/abs/1906.07099
 doi: 10.1038/s41534-019-0235-y
 ---

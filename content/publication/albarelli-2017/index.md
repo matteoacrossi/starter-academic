@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-03T20:14:19.051977Z'
+publishDate: '2020-10-03T21:26:23.913097Z'
 publication_types:
 - 2
 abstract: We address the estimation of the magnetic field B acting on an ensemble

@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-03T20:14:20.090848Z'
+publishDate: '2020-10-03T21:26:25.114190Z'
 publication_types:
 - 2
 abstract: A usual assumption in quantum estimation is that the unknown parameter labels

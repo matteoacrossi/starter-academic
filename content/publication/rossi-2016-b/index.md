@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-03T20:14:19.568875Z'
+publishDate: '2020-10-03T21:26:24.548400Z'
 publication_types:
 - 2
 abstract: © 2016 AIP Publishing LLC.We address the interaction of single- and two-qubit

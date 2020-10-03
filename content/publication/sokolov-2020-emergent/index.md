@@ -1,21 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: All-optical quantum simulator of qubit noisy channels
+title: Emergent entanglement structures and self-similarity in quantum spin chains
 subtitle: ''
 summary: ''
 authors:
-- Simone Cialdi
+- Boris Sokolov
 - Matteo A. C. Rossi
-- Claudia Benedetti
-- Bassano Vacchini
-- Dario Tamascelli
-- Stefano Olivares
-- Matteo G. A. Paris
+- Guillermo Garcı́a-Pérez
+- Sabrina Maniscalco
 tags: []
 categories: []
-date: '2017-02-01'
-lastmod: 2020-10-03T23:14:19+03:00
+date: '2020-01-01'
+lastmod: 2020-10-04T00:26:21+03:00
 featured: false
 draft: false
 
@@ -33,10 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-03T21:26:24.178328Z'
+publishDate: '2020-10-03T21:26:20.880952Z'
 publication_types:
-- 2
+- 3
 abstract: ''
-publication: '*Appl. Phys. Lett.*'
-doi: 10.1063/1.4977023
+publication: ''
 ---
