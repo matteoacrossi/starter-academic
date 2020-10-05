@@ -34,7 +34,9 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Italy"
   date_start = "2014-10-01"
-  date_end = "2017-11-7"
-  description = """Supervisor: Prof. Matteo G. A. Paris"""
+  date_end = "2017-11-07"
+  description = """
+  Supervisor: Prof. Matteo G. A. Paris
+  """
 
 +++
