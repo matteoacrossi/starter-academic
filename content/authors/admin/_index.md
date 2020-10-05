@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral researcher in the [Turku Quantum Technologies](www.tqt.fi) group.
+I am a postdoctoral researcher in the [Turku Quantum Technologies](http://www.tqt.fi) group.
