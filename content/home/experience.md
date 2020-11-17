@@ -20,9 +20,9 @@ date_format = "Jan 2006"
 [[experience]]
   title = "CTO"
   company = "Algorithmiq"
-  company_url = "www.algorithmiq.fi"
+  company_url = "https://www.algorithmiq.fi"
   location = "Finland"
-  date_start = "2020-8-14"
+  date_start = "2020-08-14"
   date_end = ""
   description = """
   Algorithmiq is a startup developing advanced quantum algorithms for life sciences
@@ -50,12 +50,4 @@ date_format = "Jan 2006"
   Supervisor: Prof. Matteo G. A. Paris
   """
 
-[[experience]]
-  title = "MSc in Physics"
-  company = "Università degli Studi di Parma"
-  company_url = ""
-  location = "Italy"
-  date_start = "2012-09-01"
-  date_end = "2014-07-25"
-  description = ""
 +++
