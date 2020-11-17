@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 100  # Order that this section will appear.
 
 title = "Outreach"
-subtitle = "A list of project I'm collaborating to"
+subtitle = "A list of projects I'm collaborating to"
 
 [content]
   # Page type to display. E.g. project.
