@@ -6,9 +6,12 @@ tags:
 date: "2020-10-5T00:00:00Z"
 
 image:
-  caption: Q|Cards⟩
+  caption: ""
   focal_point: Smart
 
 ---
+
+
+{{< figure src="metrology.svg" >}}
 
 Ciao
