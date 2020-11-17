@@ -1,18 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Noisy quantum metrology enhanced by continuous nondemolition measurement
+title: Noisy Quantum Metrology Enhanced by Continuous Nondemolition Measurement
 subtitle: ''
 summary: ''
 authors:
-- Matteo AC Rossi
+- Matteo A. C. Rossi
 - Francesco Albarelli
 - Dario Tamascelli
-- Marco G Genoni
+- Marco G. Genoni
 tags: []
 categories: []
-date: '2020-01-01'
-lastmod: 2020-10-04T00:26:11+03:00
+date: '2020-11-01'
+lastmod: 2020-11-17T17:32:24+02:00
 featured: false
 draft: false
 
@@ -30,9 +30,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-03T21:26:20.701107Z'
+publishDate: '2020-11-17T15:32:24.063808Z'
 publication_types:
-- 3
+- '2'
 abstract: ''
-publication: '*arXiv:2006.08974*'
+publication: '*Phys. Rev. Lett.*'
+url_pdf: https://link.aps.org/doi/10.1103/PhysRevLett.125.200505
+doi: 10.1103/PhysRevLett.125.200505
 ---
