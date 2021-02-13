@@ -15,7 +15,9 @@ role: Postdoctoral Researcher
 # Organizations/Affiliations
 organizations:
 - name: University of Turku
-  url: "http://www.tqt.fi"
+  url: "https://www.tqt.fi"
+- name: Algorithmiq
+  url: "https://www.algorithmiq.fi"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include quantum metrology, open quantum systems, quantum walks.
@@ -73,4 +75,5 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral researcher in the [Turku Quantum Technologies](http://www.tqt.fi) group.
+I am a postdoctoral researcher in the [Turku Quantum Technologies](http://www.tqt.fi) group and
+CTO and cofounder of [Algorithmiq](https://www.algorithmiq.fi), a startup developing advanced quantum algorithms for life sciences.
