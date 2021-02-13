@@ -23,6 +23,6 @@ to circumvent the effects of noise.
 
 ## Some relevant publications
 * {{< cite page="/publication/rossi-2020-noisy" view="4" >}}
-* {{< cite page="/publication/albarelli-2017" view="4" >}}
+* {{< cite page="/publication/albarelli-2019" view="4" >}}
 * {{< cite page="/publication/seveso-2016" view="4" >}}
 * {{< cite page="/publication/rossi-2015" view="4" >}}
