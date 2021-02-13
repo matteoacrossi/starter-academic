@@ -16,4 +16,9 @@ All quantum systems are continuously exposed to and interact with their surround
 My research in this topic involves the following lines:
 1. Study of the effects of noise on the dynamics of qubits as well as its impact on algorithms like spatial search
 2. The development of new models describing open quantum systems, such as the stochastic collision model
-3. The simulation of open quantum system dynamics with quantum simulators (such as the IBM Quantum devices)
+3. The simulation of open quantum system dynamics with quantum simulators (such as the IBM Quantum devices or quantum optical setups)
+
+## Some relevant publications
+* {{< cite page="/publication/garcia-perez-2019" view="4" >}}
+* {{< cite page="/publication/garcia-perez-2019-b" view="4" >}}
+* {{< cite page="/publication/cialdi-2017" view="4" >}}
