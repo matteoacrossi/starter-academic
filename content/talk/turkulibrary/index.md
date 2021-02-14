@@ -10,7 +10,7 @@ address:
   postcode: '20100'
   country: Finland
 
-summary: An example talk using Academic's Markdown slides feature.
+summary: In this lecture, we will explore the quantum physics behind technologies such as quantum computers and quantum cryptography
 abstract: "From its formulation, a century ago, quantum mechanics has puzzled physicists with its phenomena that defy our intuition of reality. However, the predictions of quantum physics are at the heart of everyday use technologies, such as transistors and lasers, and now we are on the verge of a new revolution, where the possibility to control individual quantum systems is driving the next generation of innovative technologies. In this lecture, we will explore the quantum physics behind technologies such as quantum computers and quantum cryptography."
 
 # Talk start and end times.
