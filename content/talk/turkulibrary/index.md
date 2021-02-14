@@ -1,27 +1,26 @@
 ---
-title: Example Talk
-event: Academic Theme Conference
-event_url: https://example.org
+title: The era of quantum technologies
+event: Outreach talk
+event_url: https://www.facebook.com/events/347229083045232
 
-location: Source Themes HQ
+location: Turku City Library
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: Linnankatu 2
+  city: Turku
+  postcode: '20100'
+  country: Finland
 
 summary: An example talk using Academic's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+abstract: "From its formulation, a century ago, quantum mechanics has puzzled physicists with its phenomena that defy our intuition of reality. However, the predictions of quantum physics are at the heart of everyday use technologies, such as transistors and lasers, and now we are on the verge of a new revolution, where the possibility to control individual quantum systems is driving the next generation of innovative technologies. In this lecture, we will explore the quantum physics behind technologies such as quantum computers and quantum cryptography."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2020-11-02T18:00:00Z"
+#date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-11-02T18:00:00Z"
 
 authors: []
 tags: []
@@ -41,35 +40,22 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=ez2gciQpCew"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- internal-project
+projects: []
 
 # Enable math on this page?
 math: true
 ---
-
-{{% alert note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /alert %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Academic's [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
