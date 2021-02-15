@@ -20,9 +20,7 @@ organizations:
   url: "https://www.algorithmiq.fi"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a researcher in quantum physics and quantum information.
-My interests include quantum metrology, open quantum systems, quantum walks.
-I also love coding and numerics.
+bio: I'm a researcher in quantum physics and quantum information. My interests include quantum metrology, open quantum systems, quantum walks. I also love coding and numerics.
 
 interests:
 - Quantum Metrology
