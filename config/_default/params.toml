@@ -272,6 +272,7 @@ plugins_js  = []
 [marketing]
   google_analytics = ""
   google_tag_manager = ""
+  microsoft_clarity = "5fmdv27241"
 
 ############################
 ## Content Management System
