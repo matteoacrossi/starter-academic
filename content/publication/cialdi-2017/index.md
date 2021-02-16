@@ -37,6 +37,6 @@ publishDate: '2020-10-03T21:26:24.178328Z'
 publication_types:
 - 2
 abstract: ''
-publication: '*Appl. Phys. Lett.*'
+publication: '*Appl. Phys. Lett.* **110**, 081107'
 doi: 10.1063/1.4977023
 ---
