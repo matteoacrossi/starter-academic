@@ -52,7 +52,6 @@ abstract: The advent of Noisy Intermediate-Scale Quantum (NISQ) technology is ch
   collisional models, and verify revivals of quantum channel capacity and extractable
   work, caused by memory effects. All these results are obtained using IBM Q Experience
   processors publicly available and remotely accessible online.
-publication: '*npj Quantum Inf.*'
-url_pdf: http://arxiv.org/abs/1906.07099
+publication: '*npj Quantum Inf.* **6**, 1'
 doi: 10.1038/s41534-019-0235-y
 ---
