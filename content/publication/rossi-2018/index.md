@@ -11,7 +11,7 @@ authors:
 - Matteo G. A. Paris
 - Sabrina Maniscalco
 tags: []
-categories: []
+categories: ['Continuous-time quantum walks', 'Open quantum systems']
 date: '2018-12-01'
 lastmod: 2020-10-03T23:14:17+03:00
 featured: false

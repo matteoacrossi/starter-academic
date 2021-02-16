@@ -11,7 +11,7 @@ authors:
 - Elsi-Mari Borrelli
 - Sabrina Maniscalco
 tags: []
-categories: []
+categories: ['Quantum algorithms']
 date: '2020-06-01'
 lastmod: 2020-10-03T23:14:16+03:00
 featured: false

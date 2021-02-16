@@ -10,7 +10,7 @@ authors:
 - Guillermo Garcı́a-Pérez
 - Sabrina Maniscalco
 tags: []
-categories: []
+categories: ['Many-body systems', 'Complex quantum networks']
 date: '2020-01-01'
 lastmod: 2020-10-04T00:26:21+03:00
 featured: false

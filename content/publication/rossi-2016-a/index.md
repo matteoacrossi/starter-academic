@@ -9,7 +9,7 @@ authors:
 - Francesco Albarelli
 - Matteo G. A. Paris
 tags: []
-categories: []
+categories: ['Quantum metrology']
 date: '2016-05-01'
 lastmod: 2020-10-03T23:14:20+03:00
 featured: false

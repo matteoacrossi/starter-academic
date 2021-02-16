@@ -10,7 +10,7 @@ authors:
 - Matteo G. A. Paris
 - Marco G. Genoni
 tags: []
-categories: ['metrology']
+categories: ['Quantum metrology']
 date: '2017-12-01'
 lastmod: 2020-10-03T23:14:19+03:00
 featured: false

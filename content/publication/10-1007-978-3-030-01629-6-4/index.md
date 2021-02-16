@@ -13,7 +13,7 @@ authors:
 - Stefano Olivares
 - Matteo G A Paris
 tags: []
-categories: []
+categories: ['Open quantum systems', 'Quantum simulation']
 date: '2018-01-01'
 lastmod: 2020-10-03T23:14:18+03:00
 featured: false

@@ -12,8 +12,8 @@ authors:
 tags:
 - '"quantum continuous measurements"'
 - '"quantum metrology"'
-- '"stochastic master"'
-categories: []
+- '"stochastic master equations"'
+categories: ['Quantum metrology']
 date: '2020-02-01'
 lastmod: 2020-10-03T23:14:17+03:00
 featured: false

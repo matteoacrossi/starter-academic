@@ -13,12 +13,9 @@ authors:
 - Tommaso Tufarelli
 tags:
 - '"Dicke model"'
-- '"dicke model"'
-- '"matter interaction"'
-- '"quantum light"'
 - '"quantum light--matter interaction"'
 - '"quantum metrology"'
-categories: []
+categories: ['quantum metrology']
 date: '2017-01-01'
 lastmod: 2020-10-03T23:14:19+03:00
 featured: false

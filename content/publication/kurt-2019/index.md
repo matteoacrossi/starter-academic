@@ -10,13 +10,9 @@ authors:
 - Matteo A. C. Rossi
 - Jyrki Piilo
 tags:
-- '"original content from this"'
 - '"quantum transport"'
 - '"telegraph noise"'
-- '"under"'
-- '"variational polaron transform"'
-- '"work may be used"'
-categories: []
+categories: ['Open quantum systems', 'Continuous-time quantum walks']
 date: '2020-01-01'
 lastmod: 2020-10-03T23:14:17+03:00
 featured: false

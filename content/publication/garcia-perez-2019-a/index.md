@@ -11,7 +11,7 @@ authors:
 - G. Massimo Palma
 - Sabrina Maniscalco
 tags: []
-categories: []
+categories: ['Open quantum systems']
 date: '2020-03-01'
 lastmod: 2020-10-03T23:14:16+03:00
 featured: false

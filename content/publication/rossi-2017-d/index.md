@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Matteo A. C. Rossi
 tags: []
-categories: []
+categories: ['Open quantum systems']
 date: '2017-01-01'
 lastmod: 2020-10-03T23:14:18+03:00
 featured: false

@@ -10,7 +10,7 @@ authors:
 - Claudia Benedetti
 - Matteo G. A. Paris
 tags: []
-categories: []
+categories: ['Open quantum systems']
 date: '2014-11-01'
 lastmod: 2020-10-03T23:14:20+03:00
 featured: false

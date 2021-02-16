@@ -10,7 +10,7 @@ authors:
 - Matteo A. C. Rossi
 - Sabrina Maniscalco
 tags: []
-categories: []
+categories: ['Open quantum systems', 'Quantum simulation']
 date: '2020-01-01'
 lastmod: 2020-10-03T23:14:16+03:00
 featured: false

@@ -10,7 +10,7 @@ authors:
 - Dario Tamascelli
 - Marco G Genoni
 tags: []
-categories: []
+categories: ['Quantum metrology']
 date: '2018-01-01'
 lastmod: 2020-10-03T23:14:17+03:00
 featured: false

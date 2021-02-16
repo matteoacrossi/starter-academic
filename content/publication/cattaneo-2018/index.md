@@ -11,7 +11,7 @@ authors:
 - Sabrina Maniscalco
 tags:
 - '"doi:10.1103/PhysRevA.98.052347 url:https://doi.org"'
-categories: []
+categories: ['Continuous-time quantum walks']
 date: '2018-11-01'
 lastmod: 2020-10-03T23:14:17+03:00
 featured: false
