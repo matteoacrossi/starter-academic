@@ -20,5 +20,5 @@ My research in this topic involves the following lines:
 
 ## Some relevant publications
 * {{< cite page="/publication/garcia-perez-2019" view="4" >}}
-* {{< cite page="/publication/garcia-perez-2019-b" view="4" >}}
+* {{< cite page="/publication/garcia-perez-2019-a" view="4" >}}
 * {{< cite page="/publication/cialdi-2017" view="4" >}}
