@@ -46,7 +46,6 @@ abstract: 'We discuss the problem of estimating a frequency via [Formula: see te
   (ii) for smaller detection efficiencies, the QFI of the conditional state is equal
   to the QFI of a state undergoing the (unconditional) dephasing dynamics, but with
   an effectively reduced noise parameter.'
-publication: '*Int. J. Quantum Inf.*'
-url_pdf: http://arxiv.org/abs/1910.12549
+publication: '*Int. J. Quantum Inf.* **18** 1941013'
 doi: 10.1142/S0219749919410132
 ---
