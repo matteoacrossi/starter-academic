@@ -44,7 +44,7 @@ abstract: We address the estimation of the magnetic field B acting on an ensembl
   time. We also find that time-continuous schemes are robust against detection losses,
   as we prove that the quantum enhancement can be recovered also for finite measurement
   efficiency. Finally, we analytically prove the optimality of our strategy.
-publication: '*New J. Phys.*'
-url_pdf: http://arxiv.org/abs/1706.00485 http://stacks.iop.org/1367-2630/19/i=12/a=123011?key=crossref.03bc09c6f11d665d5f6c5a02d03dbde2
+publication: '*New J. Phys.* **19**, 123011 (2017)'
+url_pdf: https://iopscience.iop.org/article/10.1088/1367-2630/aa9840/pdf
 doi: 10.1088/1367-2630/aa9840
 ---
