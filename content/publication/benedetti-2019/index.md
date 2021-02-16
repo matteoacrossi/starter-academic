@@ -33,7 +33,7 @@ publishDate: '2020-10-03T21:26:22.366278Z'
 publication_types:
 - 2
 abstract: ''
-publication: '*EPL*'
-url_pdf: http://stacks.iop.org/0295-5075/124/i=6/a=60001?key=crossref.38eaf1be8000238120d5a3d8d309e9ca
+publication: '*EPL* **124** 60001'
+url_pdf: https://iopscience.iop.org/article/10.1209/0295-5075/124/60001/pdf
 doi: 10.1209/0295-5075/124/60001
 ---
