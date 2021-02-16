@@ -13,7 +13,7 @@ authors:
 - Stefano Olivares
 - Matteo G. A. Paris
 tags: []
-categories: ['Quantum simulators', 'open quantum system']
+categories: ['Quantum simulation', 'Open quantum systems']
 date: '2017-02-01'
 lastmod: 2020-10-03T23:14:19+03:00
 featured: false
@@ -36,7 +36,7 @@ projects: []
 publishDate: '2020-10-03T21:26:24.178328Z'
 publication_types:
 - 2
-abstract: ''
+abstract: 'We suggest and demonstrate an all-optical quantum simulator for single-qubit noisy channels originating from the interaction with a fluctuating field. The simulator employs the polarization degree of freedom of a single photon and exploits its spectral components to average over the realizations of the stochastic dynamics. As a proof of principle, we run simulations of dephasing channels driven either by Gaussian (Ornstein-Uhlenbeck) or non-Gaussian (random telegraph) stochastic processes.'
 publication: '*Appl. Phys. Lett.* **110**, 081107'
 doi: 10.1063/1.4977023
 ---
