@@ -26,7 +26,7 @@ interests:
 - Quantum Metrology
 - Open Quantum Systems
 - Quantum Walks
-- Near-term quantum algorithm
+- Near-term quantum algorithms
 - Coding and numerics
 
 education:
