@@ -81,5 +81,5 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral researcher in the [Turku Quantum Technologies](http://www.tqt.fi) group and
+I am a postdoctoral researcher in the [Turku Quantum Technologies](http://www.tqt.fi) group at the University of Turku and
 CTO and cofounder of [Algorithmiq](https://www.algorithmiq.fi), a startup developing advanced quantum algorithms for life sciences.
