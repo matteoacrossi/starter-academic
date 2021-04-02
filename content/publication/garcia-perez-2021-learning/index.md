@@ -40,4 +40,7 @@ publication_types:
 - '3'
 abstract: 'Variational quantum algorithms stand as the most promising approaches towards practical applications of near-term quantum computers. However, these methodologies usually require a large number of measurements, which represents an important roadblock for future real-world use cases. We introduce a novel approach to tackle this problem: a variational measurement scheme. We present an algorithm that optimises informationally complete POVMs on the fly in order to minimise the statistical fluctuations in the estimation of relevant cost functions. We use it in combination with the Variational Quantum Eigensolver to calculate ground-state energies of molecular Hamiltonians in numerical simulations and show that it is competitive with state-of-the-art measurement reduction approaches. We also highlight the potential of the informational completeness of the measurement outcomes by reusing the ground-state energy estimation data to perform high-fidelity reduced state tomography.'
 publication: 'arXiv:2104.00569'
+
+url_pdf: 'https://arxiv.org/pdf/2104.00569.pdf'
+
 ---
